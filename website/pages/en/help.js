@@ -49,7 +49,8 @@ class Help extends React.Component {
                         <p>This project is maintained by a dedicated group of people. Some are available for 1:1 help. Reach out to them:</p>
 
                         <ul>
-                            <li><a href="https://www.codementor.io/@kevinlamping">Kevin Lamping</a></li>
+                            <li><a href="./blog/2020/07/01/office-hours.html">Office Hours (Free)</a></li>
+                            <li><a href="https://www.codementor.io/@kevinlamping">Kevin Lamping (Paid)</a></li>
                             <li><a href="https://github.com/webdriverio/webdriverio/blob/master/website/pages/en/help.js">Add your name to this list</a></li>
                         </ul>
                         <GridBlock contents={supportLinks} layout="threeColumn" />
